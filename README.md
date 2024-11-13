@@ -6,9 +6,9 @@ Hello! I’m Alex Chiang, a Data Science Master’s student at the University of
 
 I have a background in machine learning, data analysis, and software development. My work spans from implementing complex ML models to building efficient data pipelines and developing tools that enhance user experience and optimize processes. Here’s a bit more about what I do:
 
-•	**🔍 Research Interests**: Deep learning, NLP, and predictive modeling, especially in the tech industry, to support data-driven decision-making.
-•	**💡 Experience**: Former Data Center Technician Intern at Google, and active contributor to open-source projects and Kaggle competitions.
-•	**📊 Skills**: Python, R, SQL, PyTorch, and more, with experience in model compression, Bayesian inference, and real-time recommendation systems.
+> •	**🔍 Research Interests**: Deep learning, NLP, and predictive modeling, especially in the tech industry, to support data-driven decision-making.
+> •	**💡 Experience**: Former Data Center Technician Intern at Google, and active contributor to open-source projects and Kaggle competitions.
+> •	**📊 Skills**: Python, R, SQL, PyTorch, and more, with experience in model compression, Bayesian inference, and real-time recommendation systems.
 
 ## Projects
 
@@ -24,8 +24,8 @@ Feel free to explore these projects, and don’t hesitate to reach out if you ha
 ## Get in Touch
 
 I’m always open to discussing new opportunities, collaborations, or sharing insights about data science. Connect with me on:
-	•	LinkedIn
-	•	Email
+•	LinkedIn
+•	Email
 
 If you’re interested in my resume or my background in more detail, please check out my CV here.
 
