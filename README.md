@@ -18,6 +18,7 @@ Below are a few highlights of my work. Explore the repositories to dive into the
 2.	**ML-Powered Piano Chord Generation** - Developed a Recurrent Neural Network model in Python and PyTorch for generating piano chords in real-time.
 3.	**Statistical Analysis of MLB and NBA Data** - Performed comparative analysis using R to identify non-traditional data’s impact on team performance.
 4.	**Face Forgery Detection-Lips Don't Lie** - Utilized PyTorch and deep learning techniques to build a computer vision model for face forgery detection based on the “Lips Don’t Lie” paper by Alexandros Haliassos et al.
+5.	**Personal Annual Income Forecast** - Predicted Annual Income Ranges of the American Population using Scikit-learn Models (decision trees, random forest).
 
 Feel free to explore these projects, and don’t hesitate to reach out if you have any questions!
 
@@ -25,10 +26,10 @@ Feel free to explore these projects, and don’t hesitate to reach out if you ha
 
 I’m always open to discussing new opportunities, collaborations, or sharing insights about data science. Connect with me on:
 
-- 📧 [Email Me](mailto:alexjiang151@gmail.com)
+- 📧 [Email Me](mailto:alexjiang151@gmail.com):alexjiang151@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/hao-lin-ch/)
 
-If you’re interested in my resume or my background in more detail, please check out my [CV](https://github.com/user-attachments/files/17740610/Hao.Lin.Chiang.Resume.pdf) here.
+If you’re interested in my resume or my background in more detail, please check out my [CV](https://drive.google.com/file/d/1CHURQyO9zGCKxjr6lSwU-wlGSpnyO1Od/view?usp=sharing)here.
 
 ## 📊 GitHub Stats
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=beas28la&show_icons=true&theme=dracula)
