@@ -24,10 +24,10 @@ Feel free to explore these projects, and don’t hesitate to reach out if you ha
 ## Get in Touch
 
 I’m always open to discussing new opportunities, collaborations, or sharing insights about data science. Connect with me on:
-- LinkedIn
-- Email
+- [LinkedIn](https://www.linkedin.com/in/hao-lin-ch/)
+- [Email](alexjiang151@gmail.com)
 
-If you’re interested in my resume or my background in more detail, please check out my CV here.
+If you’re interested in my resume or my background in more detail, please check out my [CV](https://github.com/user-attachments/files/17740610/Hao.Lin.Chiang.Resume.pdf) here.
 
 ## GitHub Stats
 
