@@ -29,7 +29,7 @@ I’m always open to discussing new opportunities, collaborations, or sharing in
 - 📧 [Email Me](mailto:alexjiang151@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hao-lin-ch/)
 
-If you’re interested in my resume or my background in more detail, please check out my [CV](https://drive.google.com/file/d/1CHURQyO9zGCKxjr6lSwU-wlGSpnyO1Od/view?usp=sharing)here.
+If you’re interested in my resume or my background in more detail, please check out my [CV](https://drive.google.com/file/d/1CHURQyO9zGCKxjr6lSwU-wlGSpnyO1Od/view?usp=sharing) here.
 
 ## 📊 GitHub Stats
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=beas28la&show_icons=true&theme=dracula)
