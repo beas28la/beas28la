@@ -26,7 +26,7 @@ Feel free to explore these projects, and don’t hesitate to reach out if you ha
 
 I’m always open to discussing new opportunities, collaborations, or sharing insights about data science. Connect with me on:
 
-- 📧 [Email Me](mailto:alexjiang151@gmail.com):alexjiang151@gmail.com
+- 📧 [Email Me](mailto:alexjiang151@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hao-lin-ch/)
 
 If you’re interested in my resume or my background in more detail, please check out my [CV](https://drive.google.com/file/d/1CHURQyO9zGCKxjr6lSwU-wlGSpnyO1Od/view?usp=sharing)here.
