@@ -12,11 +12,11 @@ I have a background in machine learning, data analysis, and software development
 
 ## 📂 Projects
 
-1.	**Battery Performance Analysis** 
-2.	**ML-Powered Piano Chord Generation** 
-3.	**Statistical Analysis of MLB and NBA Data**
-4.	**Face Forgery Detection-Lips Don't Lie** 
-5.	**Personal Annual Income Forecast**
+1.	**Battery Performance Analysis** <br>
+2.	**ML-Powered Piano Chord Generation** <br>
+3.	**Statistical Analysis of MLB and NBA Data** <br>
+4.	**Face Forgery Detection-Lips Don't Lie** <br>
+5.	**Personal Annual Income Forecast** <br>
    
 Feel free to explore these projects, and don’t hesitate to reach out if you have any questions!
 
