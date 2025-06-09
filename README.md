@@ -14,7 +14,7 @@ I have a background in machine learning, data analysis, and software development
 
 1. **Real-Time Bitcoin Price Monitoring System (MCP)** <br>
 2. **Agrorithm Farm – Generative‑AI Content Automation Platform** <br> 
-3. **Urban Heat Island Modeling for Sustainable City Planning** <br> 
+3. **[Urban Heat Island Modeling for Sustainable City Planning](https://github.com/Danny410878010/Urban_Heat_Island_Prediction_Using_Satellite_Imagery)** <br> 
 4.	**Battery Performance Analysis** <br>
 5.	**Chord Generator** <br>
 6.	**Statistical Analysis of MLB and NBA Data** <br>
