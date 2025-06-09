@@ -12,11 +12,13 @@ I have a background in machine learning, data analysis, and software development
 
 ## 📂 Projects
 
-1.	**Battery Performance Analysis** <br>
-2.	**ML-Powered Piano Chord Generation** <br>
-3.	**Statistical Analysis of MLB and NBA Data** <br>
-4.	**Face Forgery Detection-Lips Don't Lie** <br>
-5.	**[Personal Annual Income Forecast](https://github.com/beas28la/Personal-Annual-Income-Forecast)** <br>
+1. **Real-Time Bitcoin Price Monitoring System (MCP)** <br>
+2. **Agrorithm Farm – Generative‑AI Content Automation Platform** <br> 
+3. **Urban Heat Island Modeling for Sustainable City Planning** <br> 
+4.	**Battery Performance Analysis** <br>
+5.	**Chord Generator** <br>
+6.	**Statistical Analysis of MLB and NBA Data** <br>
+7.	**[Personal Annual Income Forecast](https://github.com/beas28la/Personal-Annual-Income-Forecast)** <br>
    
 Feel free to explore these projects, and don’t hesitate to reach out if you have any questions!
 
