@@ -12,7 +12,7 @@ I have a background in machine learning, data analysis, and software development
 
 ## 📂 Projects
 
-1. **Real-Time Bitcoin Price Monitoring System (MCP)** <br>
+1. **[Real-Time Bitcoin Price Monitoring System (MCP)](https://github.com/beas28la/Real-Time-Bitcoin-Price-Monitoring-System-MCP-)** <br>
 2. **[Agrorithm Farm – Generative‑AI Content Automation Platform](https://github.com/hsu-github/AgrorithmFarm)** <br> 
 3. **[Urban Heat Island Modeling for Sustainable City Planning](https://github.com/Danny410878010/Urban_Heat_Island_Prediction_Using_Satellite_Imagery)** <br> 
 4.	**[Battery Performance Analysis](https://github.com/jshuang0520/final_project_602)** <br>
