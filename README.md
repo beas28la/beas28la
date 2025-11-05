@@ -29,7 +29,7 @@ I’m always open to discussing new opportunities, collaborations, or sharing in
 
 - 📧 [Email Me](mailto:alexjiang151@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hao-lin-ch/)
-- 📄 [Download My CV](https://drive.google.com/file/d/1CHURQyO9zGCKxjr6lSwU-wlGSpnyO1Od/view?usp=sharing)
+- 📄 [Download My CV]([https://drive.google.com/file/d/1CHURQyO9zGCKxjr6lSwU-wlGSpnyO1Od/view?usp=sharing](https://docs.google.com/document/d/1dRbWoApIrE-U2YNOl2DfjTGsnqGBfdc-/edit?usp=sharing&ouid=100511300435351766880&rtpof=true&sd=true))
 
 
 Thanks for stopping by! 🌟
