@@ -12,14 +12,15 @@ I have a background in machine learning, data analysis, and software development
 
 ## 📂 Projects
 
-1. **[Real-Time Bitcoin Price Monitoring System (MCP)](https://github.com/beas28la/Real-Time-Bitcoin-Price-Monitoring-System-MCP-)** <br>
-2. **[Agrorithm Farm – Generative‑AI Content Automation Platform](https://github.com/hsu-github/AgrorithmFarm)** <br> 
-3. **[Urban Heat Island Modeling for Sustainable City Planning](https://github.com/Danny410878010/Urban_Heat_Island_Prediction_Using_Satellite_Imagery)** <br> 
-4.	**[Battery Performance Analysis](https://github.com/jshuang0520/final_project_602)** <br>
-5.	**Chord Generator** <br>
-6.	**Statistical Analysis of MLB and NBA Data** <br>
-7. **Face Forgery Detection-Lips Don't Lie** <br>
-7.	**[Personal Annual Income Forecast](https://github.com/beas28la/Personal-Annual-Income-Forecast)** <br>
+**[AWS-Serverless-Image-Recognition-Pipeline](https://github.com/beas28la/AWS-Serverless-Image-Recognition-Pipeline)** <br>
+**[Real-Time Bitcoin Price Monitoring System (MCP)](https://github.com/beas28la/Real-Time-Bitcoin-Price-Monitoring-System-MCP-)** <br>
+**[Agrorithm Farm – Generative‑AI Content Automation Platform](https://github.com/hsu-github/AgrorithmFarm)** <br> 
+**[Urban Heat Island Modeling for Sustainable City Planning](https://github.com/Danny410878010/Urban_Heat_Island_Prediction_Using_Satellite_Imagery)** <br> 
+**[Battery Performance Analysis](https://github.com/jshuang0520/final_project_602)** <br>
+**Chord Generator** <br>
+**Statistical Analysis of MLB and NBA Data** <br>
+**Face Forgery Detection-Lips Don't Lie** <br>
+**[Personal Annual Income Forecast](https://github.com/beas28la/Personal-Annual-Income-Forecast)** <br>
    
 Feel free to explore these projects, and don’t hesitate to reach out if you have any questions!
 
