@@ -62,7 +62,7 @@ I’m always open to **AI/ML opportunities, collaborations, and technical discus
 
 - 📧 Email: [alexjiang151@gmail.com](mailto:alexjiang151@gmail.com)  
 - 💼 LinkedIn: https://www.linkedin.com/in/hao-lin-ch/  
-- 📄 Resume: (link)
+- 📄 Resume: [link](https://docs.google.com/document/d/1juaRo7yegYNj7vOd9f-rmGTFLXCPkahc/edit?usp=sharing&ouid=100511300435351766880&rtpof=true&sd=true)
 
 ---
 
