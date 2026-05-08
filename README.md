@@ -27,6 +27,10 @@ I enjoy turning complex data and models into **production-ready systems** that s
 
 ## 📂 Featured Projects
 
+### 🔹 [Agentic News Bias Detection & Neutralization Pipeline](https://github.com/beas28la/Agentic-News-Bias-Detection-Neutralization-Pipeline)
+Detects political bias in news sentences and rewrites them neutrally with meaning-preservation checks (BERT + Mistral 7B + SBERT/LangGraph)
+
+
 ### 🔹 [AWS Serverless Image Recognition Pipeline](https://github.com/beas28la/AWS-Serverless-Image-Recognition-Pipeline)
 End-to-end ML inference system on AWS using Lambda + API Gateway + S3  
 → Achieved **98.78% accuracy** with ResNet50 and evaluated real-world latency trade-offs  
