@@ -65,7 +65,7 @@ Data-driven modeling of EV battery performance using real-world data
 I’m always open to **AI/ML opportunities, collaborations, and technical discussions**.
 
 - 📧 Email: [alexjiang151@gmail.com](mailto:alexjiang151@gmail.com)  
-- 💼 LinkedIn: [in/hao-lin-ch](https://www.linkedin.com/in/hao-lin-ch/)  
+- 💼 LinkedIn: [in/hao-lin-ch](www.linkedin.com/in/alex-chg)  
 - 📄 Resume: [link](https://docs.google.com/document/d/1juaRo7yegYNj7vOd9f-rmGTFLXCPkahc/edit?usp=sharing&ouid=100511300435351766880&rtpof=true&sd=true)
 
 ---
