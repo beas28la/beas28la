@@ -27,8 +27,8 @@ I enjoy turning complex data and models into **production-ready systems** that s
 
 ## 📂 Featured Projects
 
-### 🔹 [Agentic News Bias Detection & Neutralization Pipeline](https://github.com/beas28la/Agentic-News-Bias-Detection-Neutralization-Pipeline)
-Detects political bias in news sentences and rewrites them neutrally with meaning-preservation checks (BERT + Mistral 7B + SBERT/LangGraph)
+### 🔹 [BiasGuard-LLM-Based-News-Bias-Detection-and-Neutralization-System](https://github.com/beas28la/BiasGuard-LLM-Based-News-Bias-Detection-and-Neutralization-System)
+Detects political bias in news text and rewrites it neutrally using fine-tuned BERT + Mistral 7B, with semantic validation and adaptive retry via LangGraph.    
 
 
 ### 🔹 [AWS Serverless Image Recognition Pipeline](https://github.com/beas28la/AWS-Serverless-Image-Recognition-Pipeline)
@@ -65,7 +65,7 @@ Data-driven modeling of EV battery performance using real-world data
 I’m always open to **AI/ML opportunities, collaborations, and technical discussions**.
 
 - 📧 Email: [alexjiang151@gmail.com](mailto:alexjiang151@gmail.com)  
-- 💼 LinkedIn: https://www.linkedin.com/in/hao-lin-ch/  
+- 💼 LinkedIn: [in/hao-lin-ch](https://www.linkedin.com/in/hao-lin-ch/)  
 - 📄 Resume: [link](https://docs.google.com/document/d/1juaRo7yegYNj7vOd9f-rmGTFLXCPkahc/edit?usp=sharing&ouid=100511300435351766880&rtpof=true&sd=true)
 
 ---
